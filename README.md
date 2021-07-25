@@ -5,7 +5,7 @@ This software is a result of my course with same name that I decided to share wi
 Main features:
 
 - Architecture organized and divided in layers with its responsabilities;
-- None external, IDEs and hardware dependecies;
+- None external softwares (unless you are using a library), IDEs and hardware dependecies;
 - All code is based on patterns determined in documentation and MISRA-C:2004;
 - OOP in C language;
 - Reusable and portable code to be used in others projects;
